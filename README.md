@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning C#, VB, ... 
 - 📫 How to reach me javier.crespo@trescal.com
-- ⚡ Fun fact: I have known Visual Basic 6.0 after C#
+- ⚡ Fun fact: I have known before C# than Visual Basic 6.0
 
 <!---
 JaviCres/JaviCres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
